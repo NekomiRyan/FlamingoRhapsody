@@ -1,0 +1,18 @@
+{
+    "rules": {
+        "cheers": {
+            "$userId": {
+                ".write": "!data.exists()",
+                ".read": true
+            }
+        },
+        "totalCount": {
+            ".read": true,
+            ".write": true
+        },
+        "blogs": {
+            ".read": true,
+            ".write": true
+        }
+    }
+}

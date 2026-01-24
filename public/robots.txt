@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flamingorhapsodyinfo.web.app/sitemap.xml
