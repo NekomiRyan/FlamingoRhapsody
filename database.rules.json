@@ -13,6 +13,10 @@
         "blogs": {
             ".read": true,
             ".write": true
+        },
+        "members": {
+            ".read": true,
+            ".write": true
         }
     }
 }
